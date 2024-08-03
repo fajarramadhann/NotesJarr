@@ -158,18 +158,28 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "flowershow:Publish with Flowershow": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "8af13e7608b3ad8f",
+  "active": "d9b8c119b8c17c1c",
   "lastOpenFiles": [
+    "obsidian-plugin-unocss-0.3.1/src/main.js",
+    "obsidian-plugin-unocss-0.3.1/src/constants.js",
+    "obsidian-plugin-unocss-0.3.1/src/config.js",
+    "obsidian-plugin-unocss-0.3.1/src/main.ts",
+    "obsidian-plugin-unocss-0.3.1/src/constants.ts",
+    "obsidian-plugin-unocss-0.3.1/src/config.ts",
+    "obsidian-plugin-unocss-0.3.1/tsconfig.json",
+    "obsidian-plugin-unocss-0.3.1/src",
+    "obsidian-plugin-unocss-0.3.1/pnpm-lock.yaml",
+    "obsidian-plugin-unocss-0.3.1/package.json",
+    "obsidian-plugin-unocss-0.3.1/manifest.json",
+    "obsidian-plugin-unocss-0.3.1/README.md",
     "home.md",
-    "netlify.toml",
     "blog/First-Blog.md",
     "Hello-World.md",
-    "blog",
     "Welcome.md",
-    "assets",
     "create a link.md"
   ]
 }

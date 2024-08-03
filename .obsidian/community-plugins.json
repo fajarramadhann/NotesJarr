@@ -1,5 +1,7 @@
 [
   "templater-obsidian",
   "obsidian-git",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "obsidian42-brat",
+  "obsidian-plugin-unocss"
 ]
