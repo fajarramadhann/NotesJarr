@@ -8,3 +8,7 @@ title: this is beta tester
 
 This site still beta tester
 ```
+
+```typescript
+const name: string = "NotesJar"
+```
