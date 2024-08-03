@@ -161,8 +161,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d9b8c119b8c17c1c",
+  "active": "8af13e7608b3ad8f",
   "lastOpenFiles": [
+    "home.md",
+    "netlify.toml",
     "blog/First-Blog.md",
     "Hello-World.md",
     "blog",
